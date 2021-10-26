@@ -1,6 +1,6 @@
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 - 👋 Hi, I’m Jyoti Jha
-- 👀 I’m interested in Frontend Development, Backend Development, and Data Analysis
+- 👀 I’m interested in Data Analysis, Machine Learning, Frontend Development
 - :innocent: Looking forward to work on interesting projects and contributing back to the community
 - :smile: You can have a look on my repositories and Do give your reviews 
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
