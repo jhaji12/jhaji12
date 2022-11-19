@@ -1,6 +1,6 @@
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 - 👋 Hi, I’m Jyoti Jha
-- 👀 I’m interested in Data Analysis, Machine Learning, Frontend Development
+- 👀 I’m interested in Full Stack Development, with experience in React JS, React Native, Python, Flask and Django.
 - :innocent: Looking forward to work on interesting projects and contributing back to the community
 - :smile: You can have a look on my repositories and Do give your reviews 
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
